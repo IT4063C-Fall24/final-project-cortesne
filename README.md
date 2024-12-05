@@ -1,7 +1,8 @@
-# Final-Project-Template
+# Call Center Employee Burnout
 <!-- Edit the title above with your project title -->
 
 ## Project Overview
+With the growth of ecommerce, call centers are receiving more calls and chats that ever before. The interactions will range from product inquiry, order status, return details, and much more. This creates more and more interactions and volume that the customers need to take, which can lead to back to back interactions. The amount of work can and has led to burnout. Therefore, the problem I am hoping to bring up are: what steps can we take to address employee burnout? By addressing the causes of burnout, it will improve employee retention, improve customer satisfaction, and reduce costs going towards training new agents. 
 
 ## Self Assessment and Reflection
 
@@ -12,19 +13,19 @@
 
 | Category          | Score    |
 | ----------------- | -------- |
-| **Setup**         | ... / 10 |
-| **Execution**     | ... / 20 |
-| **Documentation** | ... / 10 |
-| **Presentation**  | ... / 30 |
-| **Total**         | ... / 70 |
+| **Setup**         | 10 / 10 |
+| **Execution**     | 20 / 20 |
+| **Documentation** | 8 / 10 |
+| **Presentation**  | 25 / 30 |
+| **Total**         | 63 / 70 |
 
 ### Reflection
 <!-- Edit the following section with your reflection -->
 
-#### What went well?
-#### What did not go well?
-#### What did you learn?
-#### What would you do differently next time?
+#### What went well? I believe that the final went well overall once I changed my topic. I believe that it is still very beginner, and it might not be very advanced. But, I think that it is easy to follow and easy to understand. 
+#### What did not go well? My original idea did not go well. It was too big, and it was too difficult to find data.
+#### What did you learn? I believe that I learned a lot about other factors that goes into call center burnout, and this final help solidified the material covered in this class.
+#### What would you do differently next time? If I were to do this again, I would make sure that my idea is sound and that it isn't to vague. Additionally, I would make sure that I could easy use the datasets I found. 
 
 ---
 
