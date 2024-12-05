@@ -1,4 +1,4 @@
-# Final-Project-Template
+# Call Center Employee Burnout
 <!-- Edit the title above with your project title -->
 
 ## Project Overview
@@ -12,19 +12,19 @@
 
 | Category          | Score    |
 | ----------------- | -------- |
-| **Setup**         | ... / 10 |
-| **Execution**     | ... / 20 |
-| **Documentation** | ... / 10 |
-| **Presentation**  | ... / 30 |
-| **Total**         | ... / 70 |
+| **Setup**         | 10 / 10 |
+| **Execution**     | 20 / 20 |
+| **Documentation** | 8 / 10 |
+| **Presentation**  | 25 / 30 |
+| **Total**         | 63 / 70 |
 
 ### Reflection
 <!-- Edit the following section with your reflection -->
 
-#### What went well?
-#### What did not go well?
-#### What did you learn?
-#### What would you do differently next time?
+#### What went well? I believe that the final went well overall once I changed my topic. I believe that it is still very beginner, and it might not be very advanced. But, I think that it is easy to follow and easy to understand. 
+#### What did not go well? My original idea did not go well. It was too big, and it was too difficult to find data.
+#### What did you learn? I believe that I learned a lot about other factors that goes into call center burnout, and this final help solidified the material covered in this class.
+#### What would you do differently next time? If I were to do this again, I would make sure that my idea is sound and that it isn't to vague. Additionally, I would make sure that I could easy use the datasets I found. 
 
 ---
 
