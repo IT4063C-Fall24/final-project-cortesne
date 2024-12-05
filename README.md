@@ -2,6 +2,7 @@
 <!-- Edit the title above with your project title -->
 
 ## Project Overview
+With the growth of ecommerce, call centers are receiving more calls and chats that ever before. The interactions will range from product inquiry, order status, return details, and much more. This creates more and more interactions and volume that the customers need to take, which can lead to back to back interactions. The amount of work can and has led to burnout. Therefore, the problem I am hoping to bring up are: what steps can we take to address employee burnout? By addressing the causes of burnout, it will improve employee retention, improve customer satisfaction, and reduce costs going towards training new agents. 
 
 ## Self Assessment and Reflection
 
